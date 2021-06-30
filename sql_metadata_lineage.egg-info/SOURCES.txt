@@ -1,0 +1,8 @@
+README.md
+setup.py
+sql_metadata_lineage/__init__.py
+sql_metadata_lineage.egg-info/PKG-INFO
+sql_metadata_lineage.egg-info/SOURCES.txt
+sql_metadata_lineage.egg-info/dependency_links.txt
+sql_metadata_lineage.egg-info/requires.txt
+sql_metadata_lineage.egg-info/top_level.txt
