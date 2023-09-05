@@ -5,7 +5,7 @@ import os
 import re
 import copy
 
-
+print(111)
 def get_cols(sql_statement):
     '''
     :param sql_statement: sql-parsed sql statement
